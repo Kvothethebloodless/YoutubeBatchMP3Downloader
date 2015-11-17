@@ -8,7 +8,8 @@ Example list.txt file:
 
 ```https://www.youtube.com/watch?v=^^^^^^^^^^^
  https://www.youtube.com/watch?v=^^^^^^^^^^^
- https://www.youtube.com/watch?v=^^^^^^^^^^^```
+ https://www.youtube.com/watch?v=^^^^^^^^^^^
+```
 
 Made using `BeautifulSoup` and `Serenium`
 
