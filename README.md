@@ -11,5 +11,5 @@ Example list.txt file:
  https://www.youtube.com/watch?v=^^^^^^^^^^^
 ```
 
-Made using `BeautifulSoup` and `Serenium`
+Made using `BeautifulSoup` and `Selenium`
 
